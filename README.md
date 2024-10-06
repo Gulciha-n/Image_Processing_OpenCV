@@ -1,56 +1,16 @@
-# OpenCV Projects Repository
+# Computer Vision and Image Processing Projects
 
-This repository contains various image processing projects implemented using the OpenCV library. Each project focuses on a different topic and generally demonstrates basic image processing techniques and how to use OpenCV.
+This repository contains various projects and applications in the field of Computer Vision and Image Processing. Developed using Python and the OpenCV library, these projects provide tools and examples to help you process, analyze, and visualize image and video data.
 
 ## Projects
 
-1. **Libraries**
-   
-3. **import_imagens**
+- **Image Reading and Saving**: Operations to read, display, and save images in different formats.
+- **Video Processing**: Various operations on live video streams or pre-recorded videos.
+- **Object Detection**: Detecting objects in images using Haar classifiers.
+- **Morphological Operations**: Morphological techniques for shape analysis and image enhancement.
+- **Thresholding and Edge Detection**: Different thresholding and edge detection techniques for image analysis.
 
-4. **import_video**
-
-5. **Video_Camera**
-
-6. **Crop_image**
-
-7. **Shape**
-
-8. **Concatenate_images**
-
-9. **Perspective**
-
-10. **Blending_images**
-
-11. **Thresholding_images**
-
-12. **Split_merge**
-
-13. **Add_sub_images**
-
-14. **Bitwise**
-
-15. **Smoothing**
-
-16. **Morphological**
-
-17. **Face detection**
-
-...
-
-## Getting Started
-
-To get started with this project, you can simply clone this repository to your local machine. Run the following command in your terminal:
-
+### Clone the repository
+You can clone the repository using the following command:
 ```bash
-https://github.com/Gulciha-n/image-processing-opencv-adventure.git
-```
-
-## Resources
-
-- [OpenCV Official Website](https://opencv.org/): The official website of OpenCV, the main source for documentation, news, and other resources.
-- [OpenCV Documentation](https://docs.opencv.org/): The official documentation of OpenCV, providing comprehensive information on how to use the library.
-- [Python Programming Language](https://www.python.org/): Python is the programming language used in most of these projects. The official website of Python offers many resources for learning and developing in the language.
-
-These resources can help you solve problems you may encounter while working on your projects and better understand tools like OpenCV and Python.
-
+git clone https://github.com/gulcihanglmz/computer_vision-image_processing.git
